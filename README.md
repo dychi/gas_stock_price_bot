@@ -1,0 +1,2 @@
+# gas_stock_price_bot
+企業の株価と前日比を教えてくれるGASのbot
